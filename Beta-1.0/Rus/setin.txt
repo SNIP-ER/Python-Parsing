@@ -1,0 +1,6 @@
+links = https://ozon.ru
+request = 
+sort = rating
+indexis = True
+brouther = chrome
+kolichestvo = -1
