@@ -16,7 +16,6 @@
 
 <h1></h1>
 <h1></h1>
-<h1></h1>
 <p>
   📝
 </p>
@@ -86,4 +85,18 @@
       <li>-1   <em>(without scrolling)</em></li>
     </ol>
   </ul></li>
+</ul>
+
+<h1></h1>
+<h1></h1>
+<p></p>
+
+<h2>📌 Version ↓</h2>
+<ul>
+  <li><h3>Beta 1.0</h3></li>
+  <p>
+    The collection is available for no more than 60 items ;<br/>
+    If there is no price on OZON card - only one price is collected ;<br/>
+    Only request and sort of goods can be selected ;
+  </p>
 </ul>
