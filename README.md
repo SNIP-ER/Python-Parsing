@@ -95,8 +95,8 @@
 <ul>
   <li><h3>Beta 1.1</h3></li>
   <p>
-    Scrolling changed ;<br/>
-    Unlimited quantity of goods ;
+    Scrolling changed and unlimited quantity of goods ;<br/>
+    Added faster and easier assembly ;
   </p>
   
   <li><h3>Beta 1.0</h3></li>
