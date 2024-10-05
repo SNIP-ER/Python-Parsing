@@ -99,4 +99,10 @@
     If there is no price on OZON card - only one price is collected ;<br/>
     Only request and sort of goods can be selected ;
   </p>
+
+  <li><h3>Beta 1.1</h3></li>
+  <p>
+    Scrolling changed ;<br/>
+    Unlimited quantity of goods ;
+  </p>
 </ul>
