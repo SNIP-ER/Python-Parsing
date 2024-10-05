@@ -5,7 +5,7 @@ import json
 import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from function import collect_product_info, page_down
+from function import collect_product_info
 import pandas as pd
 
 
